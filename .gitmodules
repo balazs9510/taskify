@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/balazs9510/taskify-services
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/balazs9510/taskify-frontend
